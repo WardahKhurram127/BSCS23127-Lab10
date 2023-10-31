@@ -1,0 +1,18 @@
+.first-div {
+    width="500";
+     height="500";
+    border: 3px outset red;
+    background-color: lightblue;
+    border-style: dotted;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 20%;
+  }
+  .normal-para{
+    color:darkgreen;
+  }
+
+  #fav-para{
+    color:fuchsia;
+  }
